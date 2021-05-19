@@ -1,0 +1,57 @@
+body{
+    background:#F0F0F5;
+  }
+  .products-container{
+    margin-top: 8%;
+    margin-bottom: 5%;
+    
+  }
+  .products-form-2{
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    background:#FFF;
+  }
+  .products-form-2 h3{
+    text-align: center;
+    color: #333;
+    
+  }
+  .products-container form{
+    padding: 10%;
+    margin-top: -7%;
+    
+  }
+  .btnSubmit
+  {
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+  
+  
+  }
+  .products-form-2 .btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+    margin-top: 10%;
+    
+  }
+  .products-form-2 .ForgetPwd{
+    color: #0062cc;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .center{
+    display:flex;
+   justify-content:flex-end;
+   margin-top:5%;
+  
+  }
+  
+  .form-group{
+    display: flex;
+    justify-content: center;
+    margin-top:10%;
+  }
